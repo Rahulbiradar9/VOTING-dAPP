@@ -31,4 +31,3 @@ these are some of the reasons for which voting via decentralized system is bette
 * React.js
 * solidity
 * ethers.js
-* hardhat
