@@ -1,3 +1,5 @@
+Repository wasnt getting pushed so i have uploaded .rar file 
+
 # VOTING-dAPP
 Online voting with a Decentralized system
 
@@ -47,4 +49,7 @@ run command , in terminal after package installation
 npm start
 ```
 
-cridtes
+#### credits
+
+syedmuhamaddanish 
+* cloning some of his code in the project
