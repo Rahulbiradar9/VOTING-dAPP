@@ -31,3 +31,20 @@ these are some of the reasons for which voting via decentralized system is bette
 * React.js
 * solidity
 * ethers.js
+
+
+
+# WORKING
+
+you want to install the packages using
+
+```shell
+npm install
+```
+run command , in terminal after package installation
+
+```shell
+npm start
+```
+
+cridtes
